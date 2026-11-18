@@ -1,0 +1,50 @@
+# Muhammad Zarrar Zia — AI Developer & Agentic AI Engineer
+
+> Muhammad Zarrar Zia is an AI Developer and Agentic AI Engineer based in
+> Karachi, Pakistan. He builds intelligent systems — autonomous agents, LLM
+> integrations (OpenAI, Anthropic Claude, Google Gemini), RAG pipelines and AI
+> automation. Currently an AI Developer at Digital Graphiks; alumnus of Indus
+> University, Karachi (BS Software Engineering, CGPA 3.6+).
+
+## About
+- Full name: Muhammad Zarrar Zia
+- Role: AI Developer & Agentic AI Engineer
+- Current employer: Digital Graphiks (AI Developer)
+- Previous: M3 Technologies (AI Engineer)
+- Education: BS Software Engineering, Indus University, Karachi (2022–2026), CGPA 3.6+
+- Location: Karachi, Pakistan
+- Email: mzarrar03@gmail.com
+- LinkedIn: https://linkedin.com/in/muhammad-zarrar-zia-677788293
+
+## Core Competencies
+- Agentic AI systems and multi-agent orchestration
+- LLM integration (OpenAI GPT, Anthropic Claude, Google Gemini, Ollama)
+- Retrieval-Augmented Generation (RAG)
+- Backend engineering: Node.js, Python, FastAPI, PHP Laravel
+- Databases: MySQL, Redis, Supabase, Firebase
+- AI workflow automation, LMS automation (Schoology), voice AI agents
+- DevOps: Docker, Git, GitHub
+
+## Selected Projects
+- Enterprise CRM SaaS — multi-tenant CRM (leads, clients, projects, invoices) with RBAC
+- Enterprise CMS — dynamic content platform with page builder and SEO tooling
+- AI LMS Automation — automated educational content generation via Schoology
+- Multi-Agent AI Workflows — agents with memory, planning and tool execution
+- AI Calling Agent — voice agents (LLMs + speech) for lead qualification and support
+- AdCraft AI — generative marketing creatives, copy and campaigns
+
+## Leadership
+- Team Leader & PR Manager, Tech Community at Indus University
+- Conducted workshops on Agentic AI and emerging technologies
+- Organized Tech Talks and FinTech events
+
+## Pages
+- Homepage / full bio: https://zarrarzia.netlify.app/
+- Projects: https://zarrarzia.netlify.app/#projects
+- Experience: https://zarrarzia.netlify.app/#experience
+- Education: https://zarrarzia.netlify.app/#education
+- Contact: https://zarrarzia.netlify.app/#contact
+
+## Availability
+Open to AI development roles, agentic AI builds and automation projects.
+Preferred contact: WhatsApp (+92 310 1168305) or email (mzarrar03@gmail.com).
